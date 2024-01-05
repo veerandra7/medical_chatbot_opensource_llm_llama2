@@ -87,4 +87,12 @@ step2 : create setup.py file to install "src" folder as your local package. or e
 
 step3 : create ".env" file and add "PINECONE_API_KEY" and "PINECONE_API_ENV" credentials in it. and add ".env" to gitignore
 
+step4 : create "helper.py" file
+
+step5 : 
+
+step6 :
+
+step7 : 
+
 
