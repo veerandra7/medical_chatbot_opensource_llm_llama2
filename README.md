@@ -12,13 +12,16 @@ Project repo: https://github.com/veerandra7/medical_chatbot_opensource_llm_llama
 
 #### STEP 01- Create a conda environment after opening the repository
 conda create -n medical_chatbot_opensource_llm_llama2 python=3.8 -y
+
 conda activate medical_chatbot_opensource_llm_llama2
 #### STEP 02- install the requirements
 pip install -r requirements.txt
 
 #### STEP 03
 Create a .env file in the root directory and add your Pinecone credentials as follows:
+
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #### STEP 04
@@ -55,9 +58,13 @@ open up localhost:
 
 #### Techstack Used:
 Python
+
 LangChain
+
 Flask
+
 Meta Llama2
+
 Pinecone
 
 
