@@ -46,7 +46,8 @@ sentence-transformers/all-MiniLM-L6-v2
 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/tree/main
 
-The dimension of the embedding model is 384.
+From huggingface,
+we can find that the vector dimension of above embedding model is 384
 
 Go to PINECONE,
 

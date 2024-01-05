@@ -14,3 +14,6 @@ sentence-transformers/all-MiniLM-L6-v2
 
 link for embedding model : 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/tree/main
+
+From huggingface,
+we can find that the vector dimension of above embedding model is 384. 
