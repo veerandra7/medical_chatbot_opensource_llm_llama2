@@ -1,6 +1,6 @@
 # Medical_chatbot_opensource_llm_llama2
 
-### PENDING : yet to add reranking, validation , and memory for this bot. Rest of the working of bot is good with QnA
+### PENDING : yet to add reranking, validation , and memory and knowledge graph if needed. for this bot. Rest of the basic working of bot is good with QnA
 
 ## How to run?
 
