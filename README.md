@@ -16,6 +16,7 @@ conda create -n medical_chatbot_opensource_llm_llama2 python=3.8 -y
 
 conda activate medical_chatbot_opensource_llm_llama2
 
+
 #### STEP 02- install the requirements
 pip install -r requirements.txt
 
@@ -56,6 +57,8 @@ Create the index(index_name = "medical-chatbot-opensource-llm-llama2") in PINECO
 
 
 # run the following command
+
+
 python store_index.py
 
 # Finally run the following command
@@ -77,4 +80,6 @@ Meta Llama2
 Pinecone
 
 
+##### If cresting from scratch
 
+step1 :  run the template.py file to create the folder structure.
