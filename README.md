@@ -1,10 +1,10 @@
 # medical_chatbot_opensource_llm_llama2
 
-#### LLM model name : 
+### LLM model name : 
 
 llama-2-7b-chat.ggmlv3.q4_0.bin
 
-### Dwonload the opensource LLM From the following link:
+#### Dwonload the opensource LLM From the following link:
 
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
