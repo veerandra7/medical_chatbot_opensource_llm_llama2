@@ -1,4 +1,4 @@
-# Medical_chatbot_opensource_llm_llama2
+# Medical_chatbot_opensource_llm_llama2 using RAG(Retrieval Augmented Generation)
 
 ### PENDING : yet to add reranking, validation , and memory and knowledge graph for RAG if needed. for this bot. Rest of the basic working of bot is good with QnA
 
