@@ -55,13 +55,12 @@ Go to PINECONE,
 Create the index(index_name = "medical-chatbot-opensource-llm-llama2") in PINECONE DB by putting the vector dimension as 384.
 
 
-
-# run the following command
+#### run the following command
 
 
 python store_index.py
 
-# Finally run the following command
+#### Finally run the following command
 python app.py
 
 #### Fially , 
