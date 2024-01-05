@@ -11,9 +11,11 @@ Project repo: https://github.com/veerandra7/medical_chatbot_opensource_llm_llama
 ### STEPS 
 
 #### STEP 01- Create a conda environment after opening the repository
+
 conda create -n medical_chatbot_opensource_llm_llama2 python=3.8 -y
 
 conda activate medical_chatbot_opensource_llm_llama2
+
 #### STEP 02- install the requirements
 pip install -r requirements.txt
 
@@ -43,6 +45,12 @@ sentence-transformers/all-MiniLM-L6-v2
 #### Embedding model link :
 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/tree/main
+
+The dimension of the embedding model is 384.
+
+Go to PINECONE,
+
+Create the index(index_name = "medical-chatbot-opensource-llm-llama2") in PINECONE DB by putting the vector dimension as 384.
 
 
 
