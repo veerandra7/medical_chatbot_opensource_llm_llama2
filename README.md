@@ -84,3 +84,7 @@ Pinecone
 step1 :  run the template.py file to create the folder structure.
 
 step2 : create setup.py file to install "src" folder as your local package. or else, we won't be able to import src
+
+step3 : create ".env" file and add "PINECONE_API_KEY" and "PINECONE_API_ENV" credentials in it. and add ".env" to gitignore
+
+
