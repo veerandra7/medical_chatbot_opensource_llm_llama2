@@ -82,3 +82,5 @@ Pinecone
 ## If creating from scratch
 
 step1 :  run the template.py file to create the folder structure.
+
+step2 : create setup.py file to install "src" folder as your local package. or else, we won't be able to import src
