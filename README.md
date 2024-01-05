@@ -1,4 +1,4 @@
-# medical_chatbot_opensource_llm_llama2
+# Medical_chatbot_opensource_llm_llama2
 
 
 
@@ -81,18 +81,35 @@ Pinecone
 
 ## If creating from scratch
 
-step1 :  run the template.py file to create the folder structure.
+create the conda env like mentioned above.. 
+
+step1 :  create and run the template.py file to create the folder structure.
 
 step2 : create setup.py file to install "src" folder as your local package. or else, we won't be able to import src
 
-step3 : create ".env" file and add "PINECONE_API_KEY" and "PINECONE_API_ENV" credentials in it. and add ".env" to gitignore
+step3 : Go to PINECONE and create "PINECONE_API_KEY" and "PINECONE_API_ENV".
 
-step4 : create "helper.py" file
+step4 : create ".env" file and add "PINECONE_API_KEY" and "PINECONE_API_ENV" credentials in it. and add ".env" to gitignore
 
-step5 : 
+        example : PINECONE_API_KEY = "XXXXXXXXX"
+                  PINECONE_API_ENV = "XXXXXXXXX"
 
-step6 :
+step5 : create "helper.py" file
 
-step7 : 
+step6 : Go to PINECONE, Create the index(index_name = "medical-chatbot-opensource-llm-llama2") in PINECONE DB by putting the vector dimension as 384
+
+step7 : create and run the "store_index.py" file 
+
+step8 : create "prompt.py" in src folder
+
+step9 : create "app.py"
+
+step10 : create "chat.html" in templates folder
+
+step11 : create "style.css" in static folder
+
+step12 : run app.py with following command "python app.py"
+
+step13 : open newtab in your browser, search for "localhost:8080" and post any of your query from the input pdf
 
 
