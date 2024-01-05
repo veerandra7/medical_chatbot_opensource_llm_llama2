@@ -80,6 +80,6 @@ Meta Llama2
 Pinecone
 
 
-##### If cresting from scratch
+##### If creating from scratch
 
 step1 :  run the template.py file to create the folder structure.
